@@ -3,7 +3,7 @@ int generateFiboSeries(){
 }
 
 int sumseries(){
-    return sum+1;
+    return sum;
 }
 int getEvenNumbers()
 {
