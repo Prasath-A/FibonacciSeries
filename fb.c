@@ -2,7 +2,10 @@ int generateFiboSeries(){
     return 0;
 }
 
-int sumSeries(){
+
+int getEvenNumbers()
+{
+
     return 0;
 }
 
